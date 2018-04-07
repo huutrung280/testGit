@@ -1,2 +1,5 @@
 .hello {
-  margin: 13px; }
+  margin: 13px;
+  padding: 10px;
+  color: red;
+  background: green; }
